@@ -44,8 +44,6 @@ Note pattern in the distribution of crime instances
 ![gang coverage](https://github.com/user-attachments/assets/5c90eb15-741f-40b9-bbf3-fc8294f5c6d7)
 ![res](https://github.com/user-attachments/assets/19e35505-6774-4d35-8fbf-039dc54b119e)
 
-![Screenshot (263)](https://github.com/user-attachments/assets/ecf60506-f2ff-45ac-b408-13ed59495c4f)
-
 
 -------------------------------------------------------------------------------------------------------
 Visualization referenced in thesis documenting results from prior QSS 19 study on the topic of mass shootings and gun access
@@ -75,3 +73,4 @@ Image showcasing the specificity of the D3.js interactive visualization, where u
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 [Slideshow_template_for_thesis_defense (11) (1).pdf](https://github.com/user-attachments/files/20658518/Slideshow_template_for_thesis_defense.11.1.pdf)
+![Screenshot (263)](https://github.com/user-attachments/assets/ecf60506-f2ff-45ac-b408-13ed59495c4f)
