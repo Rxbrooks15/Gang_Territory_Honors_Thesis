@@ -63,7 +63,7 @@ these years.
 ![income](https://github.com/user-attachments/assets/74a08d4a-a20e-4479-bb94-e013e9ea29bf)
 ![download (15) (1) (1)](https://github.com/user-attachments/assets/51259264-6b13-445f-b620-cfe954647bae)
 
-
+Image showcasing the specificity of the D3.js interactive visualization, where users can move around and explore Chicago schools, gang territories, and gun violence cases (clustered)
 ![Thesis_image](https://github.com/user-attachments/assets/6ccc4610-ac3e-4e96-9002-30d77e9cfbd9)
 
 ---------------------------------------------------------------------------------------------------
