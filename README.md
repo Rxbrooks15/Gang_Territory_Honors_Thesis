@@ -42,6 +42,8 @@ Note pattern in the distribution of crime instances
 
 
 ![gang coverage](https://github.com/user-attachments/assets/5c90eb15-741f-40b9-bbf3-fc8294f5c6d7)
+![res](https://github.com/user-attachments/assets/19e35505-6774-4d35-8fbf-039dc54b119e)
+
 ![Screenshot (263)](https://github.com/user-attachments/assets/ecf60506-f2ff-45ac-b408-13ed59495c4f)
 
 
@@ -61,6 +63,9 @@ reduction in the gang populations in
 these years.
 
 ![income](https://github.com/user-attachments/assets/74a08d4a-a20e-4479-bb94-e013e9ea29bf)
+
+---------------------------------------------------------------------------------------------------
+Pre-model testing to determine school in vs outside gang territories 
 ![download (15) (1) (1)](https://github.com/user-attachments/assets/51259264-6b13-445f-b620-cfe954647bae)
 
 Image showcasing the specificity of the D3.js interactive visualization, where users can move around and explore Chicago schools, gang territories, and gun violence cases (clustered)
