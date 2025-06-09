@@ -5,7 +5,11 @@
 Synopsis: While the media often overlooks school gun violenc in relation to gang presence—such as targeted attacks and drive-by shootings—I will examine how this environmental mechanism of of Chicago gangs contributes to elevated rates of gun violence, crime, and school gun violence in Chicago. Although, this study focuses on the less-publicized, smaller-scale school gun violence
 incidents, I explore a socialization1framework and Gun Violence Intervention Model (GVIM) to examine how school gun violence manifests
 from environmental mechanisms. These mechanisms—often overlooked in earlier work—are
-community-specific and, I propose, closely tied to gang presence.
+community-specific and, I propose, closely tied to gang presence.....At the core of this research is the idea that gun violence, especially in schools, is not just
+random. Gang
+territories act like invisible borders in the city. I argue that schools are shaped
+by their social environments, and gang-influenced areas are often overlooked in mainstream media but are vital for
+understanding everyday gun and crime threats some students in schools face.
 
 
 
