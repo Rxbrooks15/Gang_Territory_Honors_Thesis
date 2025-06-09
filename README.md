@@ -30,11 +30,15 @@ Note pattern in the distribution of crime instances
 ![sd monte_gang](https://github.com/user-attachments/assets/8c8400cf-9c5e-47be-b66b-c34b41dceee4)
 ![nn](https://github.com/user-attachments/assets/d38bf4dc-2d23-4d78-9731-3ef709158c00)
 
+---------------------------------------------------------------------------------------------------
 
 
 ![gang coverage](https://github.com/user-attachments/assets/5c90eb15-741f-40b9-bbf3-fc8294f5c6d7)
 ![Screenshot (263)](https://github.com/user-attachments/assets/ecf60506-f2ff-45ac-b408-13ed59495c4f)
 
+
+-------------------------------------------------------------------------------------------------------
+Visualization referenced in thesis documenting results from prior QSS 19 study on the topic of mass shootings and gun access
 ![358996511-9b50aedb-0ff0-4cb9-9daa-a91745573f38](https://github.com/user-attachments/assets/bc3e962d-bb44-4ce9-b4c7-050326617ee4)
 ![income](https://github.com/user-attachments/assets/74a08d4a-a20e-4479-bb94-e013e9ea29bf)
 ![download (15) (1) (1)](https://github.com/user-attachments/assets/51259264-6b13-445f-b620-cfe954647bae)
