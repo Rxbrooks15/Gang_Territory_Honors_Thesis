@@ -17,11 +17,11 @@ understanding everyday gun and crime threats some students in schools face.
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 
-Chicago shooting cases visualized spatially over the years from 1991 to 2024
+Spatial IPPP: Chicago shooting cases visualized spatially over the years from 1991 to 2024
 
 https://github.com/user-attachments/assets/2ecb0951-c8f9-40c0-b109-5f106a769907
 
-Chicago crime cases visualized spatially over the years from 2001to 2024
+Spatial IPPP: Chicago crime cases visualized spatially over the years from 2001to 2024
 
 https://github.com/user-attachments/assets/503ece22-dfa8-4f00-951a-3f08fef48d65
 
