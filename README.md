@@ -52,7 +52,14 @@ Visualization referenced in thesis documenting results from prior QSS 19 study o
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
-Income distribution Visualization (2023)
+Income distribution Visualization (2023):
+Income distribution of wards
+while plotting the intersection of
+gangs from 2007-2024. (Note: there
+was a 34,000,000 meters squared
+reduction in the gang populations in
+these years.
+
 ![income](https://github.com/user-attachments/assets/74a08d4a-a20e-4479-bb94-e013e9ea29bf)
 ![download (15) (1) (1)](https://github.com/user-attachments/assets/51259264-6b13-445f-b620-cfe954647bae)
 
