@@ -66,9 +66,8 @@ these years.
 Pre-model testing to determine school in vs outside gang territories 
 ![download (15) (1) (1)](https://github.com/user-attachments/assets/51259264-6b13-445f-b620-cfe954647bae)
 
-
-![2007](https://github.com/user-attachments/assets/4257a470-7b8c-48e2-aca9-ae1997aaa3d0)
-
+Gun Violence cases in Chicago from 2007-2024
+![200 _2024](https://github.com/user-attachments/assets/244c8d42-3481-4ba7-afe5-d779c90da5b1)
 
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
