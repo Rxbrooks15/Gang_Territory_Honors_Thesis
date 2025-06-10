@@ -9,7 +9,7 @@ community-specific and, I propose, closely tied to gang presence.....At the core
 random. Gang
 territories act like invisible borders in the city. I argue that schools are shaped
 by their social environments, and gang-influenced areas are often overlooked in mainstream media but are vital for
-understanding everyday gun and crime threats some students in schools face.
+understanding everyday gun and crime threats some students face in school.
 
 ![IPPP](https://github.com/user-attachments/assets/c08ad8a6-fcac-4246-9aa4-6e57febaf6cc)
 The Point wise Conditional Intensity (x) of Gun Violence Incidents in Chicago
