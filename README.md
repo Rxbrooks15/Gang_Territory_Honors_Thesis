@@ -14,7 +14,7 @@ understanding everyday gun and crime threats some students in schools face.
 ![IPPP](https://github.com/user-attachments/assets/c08ad8a6-fcac-4246-9aa4-6e57febaf6cc)
 The Point wise Conditional Intensity (x) of Gun Violence Incidents in Chicago
 (2007–2024)(excluding the year 2013). The intensity function reflects the estimated risk of shootings, with higher
-concentrations near the South and West Sides. With gang boundaries used as a covariate in the IPPP model, these regions are in line with prevalent intersecting gang terrritories and experience the greatest likely hood of school gun violence cases. 
+concentrations near the South and West Sides. With gang boundaries used as a covariate in the IPPP model, these regions are in line with prevalent intersecting gang terrritories and experience the greatest likely hood of school gun violence cases. Gang territories was studied from 2007- 2024 based on the availability of Gang territory data
 
 A promising direction for future research includes: uncovering how specific aspects of gang activity internally (eg. gun distribution, drug trafficking, and initiation) escalate the likelihood of violence; identifying the most effective methods for determining whether gang presence typically precedes school gun violence; and analyzing what proportion of school gun violence cases are more attributable to gang dynamics versus broader gun-related issues."
 ---------------------------------------------------------------------------------------------------
@@ -22,6 +22,8 @@ A promising direction for future research includes: uncovering how specific aspe
 ---------------------------------------------------------------------------------------------------
 
 Spatial IPPP: Chicago shooting cases visualized spatially over the years from 1991 to 2024
+With more data points in 2010, the pattern from the initial IPPP (2007-2024) becomes recognizable 
+
 
 https://github.com/user-attachments/assets/2ecb0951-c8f9-40c0-b109-5f106a769907
 
